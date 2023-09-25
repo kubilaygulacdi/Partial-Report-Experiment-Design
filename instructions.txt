@@ -1,0 +1,10 @@
+Partial Report Deneyine hoşgeldiniz. 
+Bu deneyde sizden istenen ekranda gördüğünüz + işaretinden sonra gelecek olan harfleri
+satır satır akılda tutmanız ve ekrandan harfler kaybolduktan sonra gelecek sese göre 
+ilgili satırdaki harflerden hatırladıklarınızı cevap olarak girmeniz istenmektedir. 
+İnce ses için 1.satır, orta ses için 2.satır ve kalın ses için 3. satırdaki hatırlayabildiğiniz
+harfleri cevap olarak girmeniz istenmektedir. Her bir deneme sonunda ekran kapanacaktır ve raponuzu
+girmek için komut penceresinde (Command Window) bir soru göreceksiniz. Buraya cevabınızı büyük harflerle
+girip "enter" tuşuna basmanız gerekmektedir. Raporunuzu girdikten sonra bir sonraki deneme için tekrar bir
+ekran açılacaktır. Hazır olduğunuzda bir sonraki aşama olan ses seviyelerini öğrenmek için klavyeden herhangi
+bir tuşa basınız.
